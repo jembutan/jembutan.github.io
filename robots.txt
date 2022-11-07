@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://jembutan.github.io/sitemapx.xml
